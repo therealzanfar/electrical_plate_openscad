@@ -1,0 +1,21 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "Gang_1_Type": "1",
+            "Gang_2_Type": "0",
+            "Gang_3_Type": "3",
+            "Gang_4_Type": "0",
+            "Gang_Count": "2",
+            "Plate_Extent": "0"
+        },
+        "New set 2": {
+            "Gang_1_Type": "1",
+            "Gang_2_Type": "5",
+            "Gang_3_Type": "0",
+            "Gang_4_Type": "0",
+            "Gang_Count": "2",
+            "Plate_Extent": "0"
+        }
+    }
+}
